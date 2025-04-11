@@ -1,0 +1,104 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "Học Flutter cơ bản",
+      "content": "Học cách tạo UI, quản lý state, và gọi API trong Flutter.",
+      "priority": 2,
+      "createdAt": "2025-04-10T10:30:00.000Z",
+      "modifiedAt": "2025-04-11T09:15:00.000Z",
+      "tags": ["flutter", "mobile", "dart"],
+      "color": "#FFCC80"
+    },
+    {
+      "id": 2,
+      "title": "Dọn dẹp máy tính",
+      "content": "Xoá file rác, cập nhật phần mềm và diệt virus.",
+      "priority": 1,
+      "createdAt": "2025-04-09T14:45:00.000Z",
+      "modifiedAt": "2025-04-09T16:00:00.000Z",
+      "tags": ["công việc", "bảo trì"],
+      "color": "#AED581"
+    },
+    {
+      "id": 3,
+      "title": "Chuẩn bị bài thuyết trình",
+      "content": "Làm slide PowerPoint và tập luyện nói.",
+      "priority": 3,
+      "createdAt": "2025-04-08T08:00:00.000Z",
+      "modifiedAt": "2025-04-10T10:00:00.000Z",
+      "tags": ["thuyết trình", "trường"],
+      "color": "#FF8A80"
+    },
+    {
+      "id": 4,
+      "title": "Ý tưởng dự án mới",
+      "content": "Một ứng dụng ghi chú có thể chia sẻ qua mạng.",
+      "priority": 2,
+      "createdAt": "2025-04-07T12:00:00.000Z",
+      "modifiedAt": "2025-04-08T10:30:00.000Z",
+      "tags": ["ý tưởng", "startup"],
+      "color": "#80DEEA"
+    },
+    {
+      "id": 5,
+      "title": "Mua sắm cuối tuần",
+      "content": "Mua thực phẩm, đồ gia dụng và dụng cụ sửa chữa.",
+      "priority": 1,
+      "createdAt": "2025-04-06T09:00:00.000Z",
+      "modifiedAt": "2025-04-06T11:30:00.000Z",
+      "tags": ["shopping", "đời sống"],
+      "color": "#CE93D8"
+    },
+    {
+      "id": 6,
+      "title": "Ôn tập cấu trúc dữ liệu",
+      "content": "Học lại danh sách liên kết, cây nhị phân, đồ thị.",
+      "priority": 3,
+      "createdAt": "2025-04-05T13:45:00.000Z",
+      "modifiedAt": "2025-04-06T15:20:00.000Z",
+      "tags": ["kỹ thuật", "ôn thi"],
+      "color": "#B3E5FC"
+    }
+  ]
+
+  "accounts": [
+    {
+      "id": 1,
+      "userId": 1,
+      "username": "nguyenvanan",
+      "password": "An@123456",
+      "status": "active",
+      "lastLogin": "2025-04-02T08:15:30.000Z",
+      "createdAt": "2023-05-01T00:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "username": "tranthibinh",
+      "password": "Binh@123456",
+      "status": "active",
+      "lastLogin": "2025-04-06T14:22:10.000Z",
+      "createdAt": "2023-06-15T00:00:00.000Z"
+    },
+    {
+      "id": 3,
+      "userId": 3,
+      "username": "levancuong",
+      "password": "Cuong@123456",
+      "status": "active",
+      "lastLogin": "2025-04-07T19:45:18.000Z",
+      "createdAt": "2023-07-22T00:00:00.000Z"
+    },
+    {
+      "id": 4,
+      "userId": 4,
+      "username": "phamthidieu",
+      "password": "Dieu@123456",
+      "status": "unactive",
+      "lastLogin": "2025-04-05T10:30:42.000Z",
+      "createdAt": "2023-08-10T00:00:00.000Z"
+    }
+  ]
+  
+}
